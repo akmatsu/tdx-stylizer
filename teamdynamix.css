@@ -17,6 +17,7 @@ div.welcometext {
 }
 div.ticketbuttonpanel {
     flex-wrap: wrap;
+    justify-content: center;
 }
 div.cbutton { /*Old custom Action Buttons*/
     transition: width 0.2s;
@@ -35,7 +36,7 @@ div.cbutton:hover {
     width:296px
 }
 div.cbutton2 { /*Custom Action Buttons*/
-    background:#2b5fb3;
+    background:#3160ad;
     margin:auto auto 0 30px;
     width:150px;
     height:3em;
@@ -62,7 +63,7 @@ div.infocard {
     padding:18px;
     margin-bottom:6px;
     border-radius: 1rem;
-    background: #f5f5f5;
+    background: #f6fbf9;
     margin-left: 1%;
     margin-right:1%;
     display:flex;
